@@ -1,0 +1,12 @@
+{
+  "name": "post_request",
+  "version": "1.0.0",
+  "description": "posth_method",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kavtara_g",
+  "license": "ISC"
+}
